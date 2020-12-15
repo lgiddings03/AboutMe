@@ -27,6 +27,6 @@
 
 ![project](portfolio.png)
 
-Link to github:
+Link to github: https://github.com/lgiddings03/AboutMe
 
 Link to deployed app:
