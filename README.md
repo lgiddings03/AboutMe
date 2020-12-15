@@ -29,4 +29,4 @@
 
 Link to github: https://github.com/lgiddings03/AboutMe
 
-Link to deployed app:
+Link to deployed app:https://lgiddings03.github.io/.
